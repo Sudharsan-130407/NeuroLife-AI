@@ -1,0 +1,11 @@
+{
+  "name": "NeuroShield Stroke Care & Rehab",
+  "description": "Cross-platform mobile and clinical monitoring system for stroke patient rehabilitation, real-time eye-blink emergency detection (EAR), caregiver surveillance, and AI medical analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
